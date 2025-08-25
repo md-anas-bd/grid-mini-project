@@ -1,0 +1,32 @@
+note : 
+1. if i use auto fit I cant use manually grid value like grid area 1/6/1/5,
+so when i want  to use manually grid i have to give manually row and column like repeat (6,1fr)
+or if i use auto fit i have to use span to move grid colum or row 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+propmt:what is that I want to learn transition tranform animation .. but when I want to try in anything its get suck ..how to learn and how to avoid this problemetic things
+
+on transation 
+Goal	Use
+Simple hover effects	transition
+Animate between two states	transition
+Looping, complex sequences	animation
+Animate on page load	animation
+Need to keep final state	animation + forwards
+Want auto reverse	transition
