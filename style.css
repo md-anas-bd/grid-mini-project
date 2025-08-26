@@ -1,0 +1,15 @@
+*{
+margin: 0;
+border: 0;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+html,body {
+    
+    height: 100%;
+    width: 100%;
+    place-items: center;
+}
+.social_icon .button{
+    display: flex;
+}
